@@ -1,0 +1,8 @@
+[package]
+name = "http-client-bridge-rs"
+version = "0.1.0"
+authors = ["Josh Mcguigan"]
+
+[dependencies]
+rocket = "0.3.10"
+rocket_codegen = "0.3.10"
